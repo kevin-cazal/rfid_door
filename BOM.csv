@@ -1,0 +1,8 @@
+Amazon Standard Identification Number,Description
+B09KNC7SDQ,Adaptateur Secteur 12v 2A
+B07DP3JX2X,Step down converter (Tension de sortie réglée sur 5v)
+B003GUCF8Q,Gâche électrique Velleman HAA272 (ou autre marque) 12v
+B0CG2TL6H5,Module relai compatible Arduino 12v
+B0DFGZ49BK,Arduino Nano v3 (ou UNO rev3)
+B096ZY4LLQ,ESP8266 ESP-01 avec adaptateur pour Arduino
+B0D86CPN5J,RFID-RC522 (testé, mais problème de compatibilité avec certaines cartes) PN532 (non-testé, mais semble régler le problème de compatibilité du RC522)
